@@ -1,0 +1,11 @@
+Esraa Risk ==> Login page, Redirect Page;
+
+Yara  ===> Home Page;
+
+Aya ==> NavBar;
+
+Asmaa ==> Menu Page;
+
+Manar ==> Add Page;
+
+Mohammed ==> Edit Page;
