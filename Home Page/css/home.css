@@ -1,0 +1,94 @@
+body{
+  margin: 0;
+  padding: 0
+}
+
+.carousel-indicators{
+  margin-bottom: 10px
+}
+.carousel-indicators .bbn{
+  width:35px;
+  height: 7px
+}
+
+.carousel-indicators .active{
+  width: 40px;
+  height: 10px;
+  background-color: rgb(255 255 255 / 50%)
+}
+
+/****************************end carousel********************************************/
+/*****************************start *****************************************************/
+.secondpart{
+  background: #EEE;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+
+figure{
+  border: 1px solid white;
+  border-radius: 50%;
+  width: 111px;
+  height: 111px;
+  padding: 25px;
+  margin-top:0px ;
+  margin-bottom: 25px;
+  margin-left: 80px;
+
+}
+
+p{
+  font-family: serif;
+  font-size: 15px
+}
+/*************************************************************************************/
+/*.last_part{
+  transform: skewY(-3deg);
+}*/
+.selapa h1 span {
+  color: red;
+}
+.selapa{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.selapa .lead{
+ color:#888;
+ font-size: 20px
+}
+/****************/
+.last_part input{
+  margin-bottom: 40px;
+  width: 225px
+
+}
+.email{
+  margin-left: 225px;
+}
+.subject{
+  margin-left: 130px
+}
+textarea{
+  margin-left: 225px;
+  margin-bottom: 20px
+}
+.button{
+  margin-left: 245px;
+  margin-right: 100px
+}
+/******************************************************************************/
+footer{
+  background-color: #eee;
+  width: 100%;
+  height: 150px;
+  padding: 20px;
+
+}
+.end{
+  margin-left: 170px
+}
+footer .bi{
+  border: 1px solid #af1111;
+  border-radius: 50%
+}
