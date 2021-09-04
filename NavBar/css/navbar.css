@@ -1,37 +1,30 @@
 /* --backgrund of navbar-- */
-.navbar
-{
-    background:#202424;
+.navbar {
+  background: #202424;
 }
 /* --color of items in ul-- */
-.navbar a
-{
-    color:#ddd;
+.navbar a {
+  color: #ddd;
 }
 
 /* --action on hover-- */
-.navbar a:hover
-{
-    border-bottom: 1px solid #aaa;
+.navbar a:hover {
+  border-bottom: 1px solid #aaa;
 }
 
 /* -- make items of ul in center-- */
- .navbar-nav
-{
-    margin:0px auto;
+.navbar-nav {
+  margin: 0px auto;
 }
 
 /* --modifiy margin of li-- */
- .navbar-nav li
-{
-margin-right: 20px;
+.navbar-nav li {
+  margin-right: 20px;
 }
 
 /* --color of icon-- */
-.navbar-toggler
-{/*
+.navbar-toggler {
+  /*
     background:#5c3d2e;;
     */
 }
-
-
