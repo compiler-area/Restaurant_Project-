@@ -38,7 +38,7 @@ myButton.onclick = function(){
     const nameExists = arr.some(ell => ell.name === new_meal.name);    
     if(nameExists) {
          console.log("the meal is exit");
-         alert("the meal is already exit")
+         alert("the meal is already exit");
 }
      else {
         arr.push (new_meal);
