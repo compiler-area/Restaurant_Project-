@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: cursive,Tahoma,Arial;
+    background-image: url("../images/bulochka-kotleta-gamburger-miaso-sandwich-zelen-sous-hamburg.jpg");
+    background-size: cover;
+}
+
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+div p:first-child{
+    font-size:40px;
+    margin: 30px 20px;
+    text-align: center;
+}
+div p{
+    font-size:25px;
+    margin: 10px 15%;
+}
+input{
+    margin-bottom: 20px;
+    display: block;
+    width: 70%;
+    height: 35px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    background-color: rgba(200, 197, 197 ,0.6);
+    border-radius: 3px;
+    border-width: 3px;
+    border-color: #FFBE4F;
+}
+input:hover{
+    border-color: #98292D ;
+}
+.add{
+    width: 80%;
+    background-color: rgba(218, 25, 31 , 0.6);
+    border-radius: 5px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    color: #fff;
+}
+button{
+    margin-left: 15%;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #FFBE4F;
+    border-width: 2px;
+    border-color:  #FFBE4F;
+}
+button:hover{
+    border-color: #98292D ;
+}
+iframe[seamless] {
+    border: none;
+}
