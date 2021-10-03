@@ -111,9 +111,14 @@
 {  
       border-radius:3%;
       box-shadow: 0 0 0 1px  darkred;
-     -webkit-transform: rotateY(-10deg) scale(1.2) rotatey(180deg);
-     -moz-transform: rotateY(-10deg) scale(1.2) rotatey(180deg);
-     -o-transform: rotateY(-10deg) scale(1.2) rotatey(180deg);
+       transform:translateX(10px);
+     -webkit-transform: translateX(10px);
+     -moz-transform: translateX(10px);
+      -o-transform: translateX(10px);
+    
+     -webkit-transformm: rotateY(-10deg) scale(1.2) rotatey(180deg);
+     -moz-transformm: rotateY(-10deg) scale(1.2) rotatey(180deg);
+     -o-transformm: rotateY(-10deg) scale(1.2) rotatey(180deg);
      cursor: pointer;  
 }
  .menu .singleMenue:hover~.singleMenue
